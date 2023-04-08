@@ -1,2 +1,1 @@
-# greta
-la pequeña de la casa
+la carpeta greta
